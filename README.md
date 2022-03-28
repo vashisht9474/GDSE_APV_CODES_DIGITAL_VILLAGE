@@ -8,5 +8,8 @@ PYTORCH CODE - REFER TO -  notebook593d983535.ipynb
 INTERFACE CODE- gradio_UI.py
 
 MODEL DEPLOYED ON HUGGING FACE-  https://huggingface.co/spaces/virender74/plant-disease
-
+------------------------------------------------------------
+YOU CAN DOWNLOAD THE MODEL_BEST.PTH FILE FROM THIS LINK...
+https://www.dropbox.com/s/grcragozd4x79zc/model_best.pth?dl=0
+------------------------------------------------------------
 
